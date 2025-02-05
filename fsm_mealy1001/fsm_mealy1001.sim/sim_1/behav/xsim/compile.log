@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NIE_training_program/day5/fsm_mealy1001/fsm_mealy1001.srcs/sources_1/new/mealy1001.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy1001
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/NIE_training_program/day5/fsm_mealy1001/fsm_mealy1001.srcs/sim_1/new/mealy1001_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy1001_tb
